@@ -1,0 +1,2 @@
+# manifest
+Strategic Dota playbooks
